@@ -1,6 +1,12 @@
+import { SectionHero } from "@/components/SectionHero";
+import { SectionService } from "@/components/SectionServices";
 
 export default function Home() {
-  return (
-    <h1>Ola mundo</h1>
+  return ( 
+    <>
+    <SectionHero />
+    <SectionService />
+    </>
+    
   )
 }
