@@ -37,12 +37,12 @@ Foram criados componentes reutilizáveis para facilitar a manutenção e expans�
 
 3. Instale as dependências:
    ```sh
-   npm install
+   yarn install
    ```
 
 4. Execute o projeto:
    ```sh
-   npm run dev
+   yarn run dev
    ```
 
 5. Abra o navegador e acesse:
